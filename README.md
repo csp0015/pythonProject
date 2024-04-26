@@ -1,3 +1,4 @@
+# CPSC4970 Python Final Project
 This is my final project for CPSC4970 Python class. This project contains all the python classes for a Curling League Manager and a user iterface system. The user interface system provides functionality to create leagues, create teams within those leagues, and create team members within those teams. It also allows for file upload for an entire league database or team database. You can also save your team or league database into a file.
 
 Tools:
