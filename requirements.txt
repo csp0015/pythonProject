@@ -1,0 +1,7 @@
+Package requirements to run project:
+
+1) Python 3.9 or earlier
+2) PyQt5 5.15.9
+3) PyQt5-Tools 5.15
+4) yagmail 0.15.293
+5) keyring 25.1.0
